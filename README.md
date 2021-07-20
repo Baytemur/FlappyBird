@@ -1,0 +1,2 @@
+# FlappyBird
+bc ikinci ödev
